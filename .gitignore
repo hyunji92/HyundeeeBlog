@@ -1,6 +1,6 @@
 *.pyc
 __pycache__
-myvenv
+myvenv/
 db.sqlite3
 .DS_Store
 .idea/workspace.xml
